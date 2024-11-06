@@ -134,3 +134,9 @@ Console.WriteLine("Press any key to exit");
 Console.ReadKey();
 Console.WriteLine();
 Console.WriteLine("Goodbye!");
+
+// What is an array? Give us an example of an array.
+
+// An array stores a collection of elements of the same type. Arrays are helpful when you have several different elements - they allow you to access a collection rather than
+// having to declare individual variables for each element. An example of an array would be a collection of different makes of cars:
+// string[] carMake = new string[] --> {"Ford", "Mazda", "Audi", "BMW", "Honda"}
