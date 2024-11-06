@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barla\\source\\repos\\Student Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EFAD2D-14E6-4DB2-B3D1-4CED88F35CE0}|Student Database\\Student Database.csproj|c:\\users\\barla\\source\\repos\\student database\\student database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EFAD2D-14E6-4DB2-B3D1-4CED88F35CE0}|Student Database\\Student Database.csproj|solutionrelative:student database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Student Database\\Student Database\\Program.cs",
+              "RelativeDocumentMoniker": "Student Database\\Program.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Student Database\\Student Database\\Program.cs",
+              "RelativeToolTip": "Student Database\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHoAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:44:02.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
